@@ -29,7 +29,7 @@ bash
 Copy code
 npm install
 
-##Running Tests
+## Running Tests
 
 To run the Cypress tests, use the following command:
 
@@ -38,10 +38,10 @@ Copy code
 npm test
 This command will open the Cypress Test Runner, allowing you to run individual test cases or the entire test suite.
 
-##Configuration
+## Configuration
 The project is configured to run tests in the default Electron browser. You can customize the configuration in the cypress.json file.
 
-##Test Cases
+## Test Cases
 Test Case 01 - Validate the default Book your trip form
 This test case checks the default state of the Book your trip form, ensuring that the "One way" radio button is selected and other elements are displayed correctly.
 
