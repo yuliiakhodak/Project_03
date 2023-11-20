@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <git@github.com:yuliiakhodak/Project_03.git>
 2. Navigate to the project folder:
 
 bash
@@ -57,7 +57,9 @@ This test case performs a booking for 1 passenger for a round trip and validates
 Test Case 05 - Validate the booking for 2 passengers and one way
 This test case performs a booking for 2 passengers for a one-way trip and validates the displayed information.
 
-Folder Structure
+## Folder Structure
 cypress: Contains Cypress test files and configuration.
+
 fixtures: Contains test data in JSON format.
+
 pages: Contains page objects, such as BookingFunction.js.
