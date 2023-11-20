@@ -1,0 +1,8 @@
+{
+  "NumberOfPassengersDefault":"1",
+  "Passender1Default": "Adult (16-64)",
+  "TestCase3": ["Business", "IL",  "FL", "1", "Senior (65+)", 7],
+  "TestCase4": ["First", "CA", "IL", "1", "Adult (16-64)", 7, 31],
+  "TestCase5": ["Premium Economy", "NY", "TX", "2", "Adult (16-64)", "Child (2-11)", 1]
+  
+}
